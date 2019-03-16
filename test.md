@@ -6,7 +6,7 @@ This is users table.
 Other description or table comments.
 ```
 ### columns
-|name|type|null|default|key|comment|
+| 論理名 | type | null | default | key | comment |
 | --- | --- | --- | --- | --- | --- |
 |id|bigint|||primary key|user identifier|
 |name|varchar(255)|YES|||user name|
@@ -24,7 +24,7 @@ This is products table.
 ```
 
 ### columns
-|name|type|null|default|key|comment|
+|  論理名  |  type  |null|default|key|comment|
 | --- | --- | --- | --- | --- | --- |
 |id|bigint|||primary key|product identifier|
 |category|varchar(255)|YES||||
